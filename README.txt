@@ -1,6 +1,6 @@
 Welcome to the NDLUG Scavenger Hunt in the Shell!
 
-First, now that you know how to cat, let's practice listing directories and changing directories.
+Now that you know how to cat, let's practice listing directories and changing directories.
 
 "ls" - lists contents of the current directory
 "cd directory_name" - moves into 'directory_name'
