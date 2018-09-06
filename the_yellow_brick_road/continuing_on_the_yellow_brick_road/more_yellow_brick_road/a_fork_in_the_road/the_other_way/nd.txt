@@ -1,0 +1,22 @@
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+ *                                                                 *
+ *   Great job!  You made it to the end of the yellow brick        *
+ *   road.  But there's still more to find!  Git, the tool you     *
+ *   used to download these challenges, allows people to           *
+ *   collaborate for making software.  This often means people     *
+ *   want to work on the same code at the same time.  For this     *
+ *   to work best, git allows people to work in different          *
+ *   'branches'.                                                   *
+ *                                                                 *
+ *   Use "cd .." like before to go back up to the top of the       *
+ *   road, where we started, then to switch to a new branch        *
+ *   in git, use "git checkout branchname"                         *
+ *                                                                 *
+ *   The name of the branch you're looking for can be found from   *
+ *   these numbers:                                                *
+ *                                                                 *
+ *   14 4 12 21 7                                                  *
+ *                                                                 *
+ *   Once you find it, it's no caps and no spaces.                 *
+ *                                                                 *
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *

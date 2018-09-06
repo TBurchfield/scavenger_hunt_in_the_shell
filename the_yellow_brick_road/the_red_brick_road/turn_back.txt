@@ -1,0 +1,6 @@
+Found yourself here by mistake?  You can go "back" one step by doing:
+
+"cd .."
+
+In linux, ".." always means "the directory above this one".  It's like a shorthand notation.
+"." means "the current directory", but you won't need that for now.
